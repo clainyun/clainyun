@@ -31,57 +31,6 @@
   </a>
 </p>
 
-<br/>
-
-## 💗 How I Work
-
-<table width="100%">
-<tr>
-
-<td width="33.33%" align="center" valign="top">
-
-<div align="center">
-
-### 💬 Share Early
-
-문제나 병목이 예상되면<br/>
-<strong>사전에 먼저 공유합니다</strong>
-
-</div>
-
-</td>
-
-<td width="33.33%" align="center" valign="top">
-
-<div align="center">
-
-### 🧭 Align Together
-
-각자 다른 일을 하더라도<br/>
-<strong>같은 목표를 볼 수 있도록 정리합니다</strong>
-
-</div>
-
-</td>
-
-<td width="33.33%" align="center" valign="top">
-
-<div align="center">
-
-### 🔍 Learn Deeply
-
-모르는 것은 그냥 넘기지 않고<br/>
-<strong>완전히 이해할 수 있을 때 넘어갑니다</strong>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
 ---
 
 ## 🏆 Awards & Achievements
@@ -95,7 +44,6 @@
 | **프로그램 저작물 등록** | 📜 **2건** | 한국저작권위원회 |
 | **SW자산뱅크** | 🗃️ **등재** | Caring 프로젝트 |
 | **SSAFY** | 🌟 **베스트 멤버** | 프로젝트 및 협업 활동 |
-| **삼성전자 CSR** | 📸 **달력 촬영 참여** | SSAFY 대표 참여 |
 
 <br/>
 
