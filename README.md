@@ -63,18 +63,19 @@
 
 <br/>
 
-## 📜 Certifications
+<h2>📜 Certifications</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/정보처리기사-E991A9?style=for-the-badge&labelColor=F8E6EB"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQLD-B4A2D8?style=for-the-badge&labelColor=EEE8F7"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ADsP-94AFD8?style=for-the-badge&labelColor=E5EDF8"/>
-  &nbsp;
-</p>
+<div align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/정보처리기사-2025.12-D495A8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLD-2025.12-AE9DCE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADsP-2026.06-9FAFD3?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<sub>Backend · Database · Data Analysis</sub>
+
+</div>
 
 ---
 
