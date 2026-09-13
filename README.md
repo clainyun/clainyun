@@ -4,107 +4,71 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D6DE,45:F3B9C8,100:ECAFC1&height=210&section=header&text=Dain%20Yun&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Backend%20%2F%20Software%20Engineer&descAlignY=57&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FBE3E9,45:F4BBCB,100:E994AD&height=225&section=header&text=Dain%20Yun&fontSize=49&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20%C2%B7%20AI%20%C2%B7%20Infra&descAlignY=56&descSize=19"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=D9829B&center=true&vCenter=true&width=760&lines=Building+Reliable+Backend+Systems;Tracing+Data+Flow+to+Completion;Design+for+Failure+%C2%B7+Verify+with+Tests"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=CF879B&center=true&vCenter=true&width=780&lines=Ask+Early+%C2%B7+Share+Clearly+%C2%B7+Build+Together;Learn+Deeply+%C2%B7+Explain+Simply;Better+Communication%2C+Better+Results"
     alt="Typing SVG"
   />
 </p>
 
+<h3 align="center">
+  모르는 것은 먼저 묻고 문제를 미리 공유하며<br/>
+  함께 성장하는 것을 좋아합니다
+</h3>
+
 <p align="center">
-  <b>실시간·분산 시스템에서 데이터의 흐름과 실패 조건을 끝까지 확인하는 개발자입니다.</b>
+  <sub>
+    Backend를 중심으로 AI와 Infra까지 경험하며,<br/>
+    서로 다른 역할의 사람들이 같은 목표를 볼 수 있도록 연결하는 일을 좋아합니다.
+  </sub>
 </p>
 
 <p align="center">
   <a href="https://cainyun.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-Tistory-F29AAF?style=flat-square&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TECH%20BLOG-E990A8?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/clainyun">
-    <img src="https://img.shields.io/badge/GitHub-clainyun-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-D29AA8?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
-## 🚀 Featured Projects
+## 💗 How I Work
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🏭 Monitory
+### 💬 Share Early
 
-**산업 현장 실시간 모니터링 시스템**
-
-공장 센서 데이터를 실시간으로 수집·처리하고  
-위험 판단 · 설비 제어 · 알림까지 연결한 프로젝트입니다.
-
-<br/>
-
-<a href="https://github.com/clainyun/monitory-showcase">
-  <img src="https://img.shields.io/badge/VIEW%20SHOWCASE-7DB7A5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+문제가 커진 뒤 알리기보다  
+**막히는 지점과 변경 사항을 먼저 공유합니다.**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🏠 싸방팔방
+### 🧭 Align Together
 
-**모바일 임장 스터디 플랫폼**
-
-임장 준비부터 현장 기록 · 실시간 채팅 · STT ·  
-AI 리포트 · RAG까지 연결한 모바일 서비스입니다.
-
-<br/>
-
-<a href="https://github.com/clainyun/ssabangpalbang-showcase">
-  <img src="https://img.shields.io/badge/VIEW%20SHOWCASE-86ACDA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+각자 다른 일을 하더라도  
+**같은 기준과 목표를 볼 수 있도록 정리합니다.**
 
 </td>
 
-</tr>
+<td width="33%" align="center" valign="top">
 
-<tr>
+### 🔍 Learn Deeply
 
-<td width="50%" valign="top">
-
-### 💙 Caring
-
-**어르신 맞춤 요양기관 통합 플랫폼**
-
-보호자와 어르신을 위한 요양기관  
-탐색 · 추천 · 상담 · 예약 통합 서비스입니다.
-
-<br/>
-
-<a href="https://github.com/clainyun/caring-showcase">
-  <img src="https://img.shields.io/badge/VIEW%20SHOWCASE-AA9BD2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 LG Aimers
-
-**리조트 식음업장 수요예측 AI 프로젝트**
-
-실제 산업 데이터를 바탕으로  
-메뉴별 일별 수요를 예측한 데이터 분석 프로젝트입니다.
-
-<br/>
-
-<a href="https://github.com/clainyun/lg-aimers-showcase">
-  <img src="https://img.shields.io/badge/VIEW%20SHOWCASE-E79BB2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+모르는 것은 그냥 넘기지 않고 확인하고,  
+**다시 설명할 수 있을 때까지 기록합니다.**
 
 </td>
 
@@ -112,6 +76,8 @@ AI 리포트 · RAG까지 연결한 모바일 서비스입니다.
 </table>
 
 <br/>
+
+---
 
 ## 🏆 Awards & Achievements
 
@@ -128,116 +94,235 @@ AI 리포트 · RAG까지 연결한 모바일 서비스입니다.
 
 <br/>
 
-## 👩‍💻 About Me
-
-```javascript
-const developer = {
-    name: "윤다인",
-    role: "Backend / Software Engineer",
-
-    education: {
-        university: "Sejong University",
-        major: "Computer Engineering"
-    },
-
-    interests: [
-        "Backend Engineering",
-        "Distributed Systems",
-        "Real-time Data Processing",
-        "System Reliability"
-    ],
-
-    languages: ["Java", "C", "Python"],
-    mainFramework: "Spring Boot",
-
-    values: [
-        "Clear completion criteria",
-        "Failure-aware design",
-        "Verification with tests"
-    ],
-
-    principle: "처리 시작이 아니라 실제 완료까지 확인합니다."
-};
-```
-
-<br/>
+---
 
 ## 🎓 Education & Experience
 
-- 🏫 **세종대학교 컴퓨터공학과**
-- 💻 **LG CNS AM Inspire Camp 1기** — Backend
-- 🧑‍💻 **삼성청년SW·AI아카데미(SSAFY) 15기** — Mobile Track · Team Lead
-- 🤖 **LG Aimers 7기** — Data Analysis · Model Development
-- 🐚 **42 Seoul La Piscine** — C · Unix · Linux
+| 기간 | 활동 | 주요 경험 |
+|---|---|---|
+| **2026** | 🧑‍💻 **삼성청년SW·AI아카데미(SSAFY) 15기** | Mobile Track · Team Lead |
+| **2026** | 🤖 **LG Aimers 7기** | Data Analysis · Model Development |
+| **2025 ~ 2026** | 💻 **LG CNS AM Inspire Camp 1기** | Backend · 실시간 데이터 처리 |
+| **2025** | 🐚 **42 Seoul La Piscine** | C · Unix · Linux |
+| **재학** | 🏫 **세종대학교 컴퓨터공학과** | Computer Engineering |
 
 <br/>
 
 ## 📜 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/정보처리기사-Certified-E8A1B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLD-Certified-9DB8DD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ADsP-Certified-B8A8D8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPIc-IM1-D8AAC0?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/정보처리기사-E991A9?style=for-the-badge&labelColor=F8E6EB"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLD-B4A2D8?style=for-the-badge&labelColor=EEE8F7"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ADsP-94AFD8?style=for-the-badge&labelColor=E5EDF8"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPIc%20IM1-C5A7BE?style=for-the-badge&labelColor=F2E8EF"/>
 </p>
 
 <br/>
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,spring,postgres,redis,kafka,fastapi,docker,jenkins,aws,linux,git,github,gitlab&perline=8"/>
 </p>
 
-### Backend & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-### Infra & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<p align="center">
+  <sub>Java · C · Python · Spring Boot · PostgreSQL · Kafka · Redis · FastAPI · Docker · Jenkins · AWS · Linux</sub>
 </p>
 
 <br/>
 
-## 📝 기록하는 개발자
+---
 
-프로젝트에서 만난 문제와 해결 과정을 기록하며,  
-기술을 단순히 사용하는 것보다 **왜 그렇게 동작하는지 이해하는 과정**을 중요하게 생각합니다.
+## 🚀 Featured Projects
 
-<p>
+<p align="center">
+  <sub>
+    프로젝트 이름을 클릭하면 실제 구현과 문제 해결 과정을 정리한 Showcase로 이동합니다.
+  </sub>
+</p>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/clainyun/monitory-showcase">
+  <img
+    src="https://raw.githubusercontent.com/clainyun/monitory-showcase/main/assets/monitory-banner.png"
+    width="260"
+    alt="Monitory"
+  />
+</a>
+
+</td>
+
+<td width="70%" valign="middle">
+
+### 🏭 Monitory
+
+**산업 현장 실시간 모니터링 시스템**
+
+공장 센서 데이터를 실시간으로 수집·처리하고  
+위험 판단 · 설비 제어 · 알림까지 연결한 프로젝트
+
+<br/>
+
+<a href="https://github.com/clainyun/monitory-showcase">
+  <img src="https://img.shields.io/badge/VIEW%20MONITORY-6CA58C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/clainyun/ssabangpalbang-showcase">
+  <img
+    src="https://raw.githubusercontent.com/clainyun/ssabangpalbang-showcase/main/assets/ui/home-main.gif"
+    width="150"
+    alt="싸방팔방"
+  />
+</a>
+
+</td>
+
+<td width="70%" valign="middle">
+
+### 🏠 싸방팔방
+
+**모바일 임장 스터디 플랫폼**
+
+임장 준비부터 현장 기록 · 실시간 채팅 · STT ·  
+AI 리포트 · RAG까지 연결한 모바일 서비스
+
+<br/>
+
+<a href="https://github.com/clainyun/ssabangpalbang-showcase">
+  <img src="https://img.shields.io/badge/VIEW%20SSABANGPALBANG-58CDA5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/clainyun/caring-showcase">
+  <img
+    src="https://raw.githubusercontent.com/clainyun/caring-showcase/main/assets/caring-banner.png"
+    width="260"
+    alt="Caring"
+  />
+</a>
+
+</td>
+
+<td width="70%" valign="middle">
+
+### 💙 Caring
+
+**어르신 맞춤 요양기관 통합 플랫폼**
+
+보호자와 어르신을 위한  
+탐색 · 추천 · 상담 · 예약 통합 서비스
+
+<br/>
+
+<a href="https://github.com/clainyun/caring-showcase">
+  <img src="https://img.shields.io/badge/VIEW%20CARING-6F9FDC?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/clainyun/lg-aimers-showcase">
+  <img
+    src="https://raw.githubusercontent.com/clainyun/lg-aimers-showcase/main/assets/dataset-overview.png"
+    width="260"
+    alt="LG Aimers"
+  />
+</a>
+
+</td>
+
+<td width="70%" valign="middle">
+
+### 💜 LG Aimers
+
+**리조트 식음업장 수요예측 AI 프로젝트**
+
+실제 산업 데이터를 바탕으로  
+메뉴별 일별 수요를 예측한 데이터 분석 프로젝트
+
+<br/>
+
+<a href="https://github.com/clainyun/lg-aimers-showcase">
+  <img src="https://img.shields.io/badge/VIEW%20LG%20AIMERS-A783CF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📝 기록하고 공유합니다
+
+새로운 기술이나 문제가 생기면 사용법만 확인하고 넘어가기보다  
+**왜 그렇게 동작하는지 이해한 뒤 다시 설명할 수 있는 형태로 남기는 편입니다.**
+
+프로젝트에서 겪은 시행착오와 공부한 내용을 꾸준히 기록하고 있습니다.
+
+<p align="center">
   <a href="https://cainyun.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-Technical%20Blog-E98CA8?style=for-the-badge&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/READ%20MY%20TECH%20BLOG-E990A8?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <b>Build carefully · Verify thoroughly · Learn continuously</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=9B9296&center=true&vCenter=true&width=620&lines=Ask+Early+%C2%B7+Share+Clearly+%C2%B7+Grow+Together"
+    alt="Ask Early · Share Clearly · Grow Together"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ECAFC1,50:F3B9C8,100:F7D6DE&height=110&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:E994AD,45:F4BBCB,100:FBE3E9&height=110&section=footer"
     width="100%"
   />
 </p>
