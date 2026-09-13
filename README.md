@@ -22,13 +22,6 @@
 </h3>
 
 <p align="center">
-  <sub>
-    Backend를 중심으로 AI와 Infra까지 경험하며,<br/>
-    서로 다른 역할의 사람들이 같은 목표를 볼 수 있도록 연결하는 일을 좋아합니다.
-  </sub>
-</p>
-
-<p align="center">
   <a href="https://cainyun.tistory.com/">
     <img src="https://img.shields.io/badge/TECH%20BLOG-E990A8?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
@@ -42,33 +35,45 @@
 
 ## 💗 How I Work
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
+
+<div align="center">
 
 ### 💬 Share Early
 
-문제가 커진 뒤 알리기보다  
-**막히는 지점과 변경 사항을 먼저 공유합니다.**
+문제나 병목이 예상되면<br/>
+<strong>사전에 먼저 공유합니다</strong>
+
+</div>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
+
+<div align="center">
 
 ### 🧭 Align Together
 
-각자 다른 일을 하더라도  
-**같은 기준과 목표를 볼 수 있도록 정리합니다.**
+각자 다른 일을 하더라도<br/>
+<strong>같은 목표를 볼 수 있도록 정리합니다</strong>
+
+</div>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
+
+<div align="center">
 
 ### 🔍 Learn Deeply
 
-모르는 것은 그냥 넘기지 않고 확인하고,  
-**다시 설명할 수 있을 때까지 기록합니다.**
+모르는 것은 그냥 넘기지 않고<br/>
+<strong>완전히 이해할 수 있을 때 넘어갑니다</strong>
+
+</div>
 
 </td>
 
@@ -83,7 +88,7 @@
 
 | 활동 | 성과 | 내용 |
 |---|:---:|---|
-| **SSAFY 15기 공통 프로젝트** | 🥈 **본선 2등** | 전체 109팀 중 삼성 임직원 유저테스트 10팀 선정 |
+| **SSAFY 15기 공통 프로젝트** | 🥈 **본선 2등** | 전 캠퍼스 109팀 중 삼성 임직원 유저테스트 10팀 선정 |
 | **LG Aimers 7기 해커톤** | 📊 **상위 11%** | 817팀 참가 |
 | **세종대학교 컴퓨터공학과 학술제** | 🥈 **2등** | Caring 프로젝트 |
 | **창의설계경진대회** | 🏅 **인기상** | Caring 프로젝트 |
