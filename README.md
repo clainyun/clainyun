@@ -117,7 +117,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/ADsP-94AFD8?style=for-the-badge&labelColor=E5EDF8"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/OPIc%20IM1-C5A7BE?style=for-the-badge&labelColor=F2E8EF"/>
 </p>
 
 <br/>
