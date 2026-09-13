@@ -31,14 +31,7 @@
   </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE3E9,50:F4BBCB,100:E994AD&height=3&section=header"
-    width="100%"
-  />
-</p>
+---
 
 ## 🏆 Awards & Achievements
 
@@ -56,14 +49,7 @@
 
 <br/>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE3E9,50:F4BBCB,100:E994AD&height=3&section=header"
-    width="100%"
-  />
-</p>
+---
 
 ## 🎓 Education & Experience
 
@@ -77,14 +63,7 @@
 
 <br/>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE3E9,50:F4BBCB,100:E994AD&height=3&section=header"
-    width="100%"
-  />
-</p>
+---
 
 <h2>📜 Certifications</h2>
 
@@ -100,14 +79,7 @@
 
 </div>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE3E9,50:F4BBCB,100:E994AD&height=3&section=header"
-    width="100%"
-  />
-</p>
+---
 
 ## 🛠️ Tech Stack
 
@@ -121,14 +93,7 @@
 
 <br/>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE3E9,50:F4BBCB,100:E994AD&height=3&section=header"
-    width="100%"
-  />
-</p>
+---
 
 ## 🚀 Featured Projects
 
@@ -288,14 +253,7 @@ AI 리포트 · RAG까지 연결한 모바일 서비스
 
 <br/>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:FBE3E9,50:F4BBCB,100:E994AD&height=3&section=header"
-    width="100%"
-  />
-</p>
+---
 
 ## 📝 기록하고 공유합니다
 
