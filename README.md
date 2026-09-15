@@ -55,7 +55,7 @@
 
 | 기간 | 활동 | 주요 경험 |
 |---|---|---|
-| **2026.01 ~ 현재** | 🧑‍💻 **삼성청년SW·AI아카데미(SSAFY) 15기** | Mobile Track · Team Lead |
+| **2026.01 ~ 현재** | 🧑‍💻 **삼성청년SW·AI아카데미(SSAFY) 15기** | Java Track · Team Lead · PO/PM |
 | **2025.07 ~ 2025.08** | 🤖 **LG Aimers 7기** | Data Analysis · Model Development |
 | **2024.12 ~ 2025.06** | 💻 **LG CNS AM Inspire Camp 1기** | Backend · 실시간 데이터 처리 |
 | **2023.07 ~ 2023.08** | 🐚 **42 Seoul La Piscine** | C · Unix · Linux |
